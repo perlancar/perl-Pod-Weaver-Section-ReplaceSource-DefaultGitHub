@@ -15,7 +15,7 @@ no Moose;
 1;
 # ABSTRACT: Add or replace a SOURCE section (repository defaults to GitHub)
 
-=for Pod::Coverage weave_section
+=for Pod::Coverage .*
 
 =head1 SYNOPSIS
 
